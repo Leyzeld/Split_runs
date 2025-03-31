@@ -1,7 +1,7 @@
 # Split runs in Word document / Разделение ранов в Word документе
 
 <details open>
-  <summary>Русский</summary>
+  <summary><strong>🔷Русский🔷</strong></summary>
 
 Этот проект представляет собой Python-скрипт для обработки документов Word (.docx) путём разбиения `run` на слова с сохранением оригинального форматирования, включая гиперссылки, сноски, рисунки и таблицы.
 
@@ -29,7 +29,7 @@
 
 </details>
 <details>
-  <summary>English</summary>
+  <summary>🔷English🔷</summary>
 
 This project is a Python script designed to process Word documents (.docx) by splitting `runs` into words while preserving the original formatting, including hyperlinks, footnotes, drawings, and tables.
 
